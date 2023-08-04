@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:travel_app/screens/bottom_nav_bar.dart';
+import 'package:travel_app/screens/bottom_bar.dart';
 
 void main() {
   runApp(const MyApp());
